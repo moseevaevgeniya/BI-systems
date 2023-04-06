@@ -1,6 +1,7 @@
 ## Техническое задание  
 
 ★★★★	[ТЗ](https://app.powerbi.com/view?r=eyJrIjoiYjVmZDQ0ZTAtMGFmOS00MDlmLTk5NmQtM2EwNjIxNWY1OGI2IiwidCI6ImMyNzFkZmIwLWUxMWEtNGFhYi04ZDQ0LWFmNDAyNGVjMDM0MiIsImMiOjh9)
+        [Источник данных](https://docs.google.com/spreadsheets/d/1c7YKrQemFCdnUAMjogE63VHMxXqvbWbdFV1QGLaINBQ/edit?usp=sharing)
 #### Рассчитать показатели мерами:  
 - Выручка;  
 - Прибыль;  
