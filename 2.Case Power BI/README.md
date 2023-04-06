@@ -18,6 +18,6 @@
 ● Таблица себестоимости  
 ● Справочник номенклатуры (артикулов)  
 ● Тарифы доставки  
-## Вот что получилось
-[файл.ipbx](https://drive.google.com/file/d/1qFM_NHEYcFEID8gpFJd5wTuBYoVKLVHL/view?usp=sharing)
-[файл.pnj]()
+## Вот что получилось  
+[файл.ipbx](https://drive.google.com/file/d/1qFM_NHEYcFEID8gpFJd5wTuBYoVKLVHL/view?usp=sharing)  
+[файл.pnj](https://github.com/moseevaevgeniya/BI-systems/blob/b7ea0a388494377179b81bc13351f17f4863df27/2.Case%20Power%20BI/2023-04-07_01-30-02.png)  
