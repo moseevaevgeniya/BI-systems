@@ -1,5 +1,5 @@
 ## Построение дашборда в Tableau Public на основании анализа данных интернет магазина    
-[ipynb]()  
+[ipynb](https://github.com/moseevaevgeniya/BI-systems/blob/8658b3f71c7d4b1907ad7f03729ddc761523a0bb/4.Case%20Tableau%20Public/e_commerce%20(1).ipynb)  
 
 #### Описание    
 На основе подготовленных данных, построить дашборд и ответить на вопросы:  
