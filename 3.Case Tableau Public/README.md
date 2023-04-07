@@ -1,5 +1,5 @@
 ## Проект: Анализ пользовательского взаимодействия с карточками статей в Яндекс.Дзене.Построение дашборда в Tableau Public.  
-ipynb html  
+[ipynb](https://github.com/moseevaevgeniya/BI-systems/blob/79d7b929635d24d26d279fbb776623c90178cdec/3.Case%20Tableau%20Public/%D0%B4%D0%B0%D1%88%D0%B1%D0%BE%D1%80%D0%B4%20dash_visits%20(1).ipynb)  
 
 #### Описание проекта  
 - Написать Python-скрипт, который автоматизирует выгрузку данных.  
